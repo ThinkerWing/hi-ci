@@ -1,15 +1,15 @@
 @font-face {
   font-family: "iconfont"; /* Project id 1324955 */
   src: url('../fonts/iconfont.woff2') format('woff2'),
-       url('../fonts/iconfont.woff') format('woff'),
-       url('../fonts/iconfont.ttf') format('truetype');
+    url('../fonts/iconfont.woff') format('woff'),
+    url('../fonts/iconfont.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'iconfont';
-    src: url('../fonts/iconfont.woff2') format('woff2'),
-         url('../fonts/iconfont.woff') format('woff'),
-         url('../fonts/iconfont.ttf') format('truetype');
-  }
+  font-family: 'iconfont';
+  src: url('../fonts/iconfont.woff2') format('woff2'),
+    url('../fonts/iconfont.woff') format('woff'),
+    url('../fonts/iconfont.ttf') format('truetype');
+}
 .iconfont {
   font-family: "iconfont" !important;
   font-size: 16px;
@@ -19,30 +19,36 @@
 }
 
 .icon-logo-tux:before {
-    content: "\e7b4";
-  }
-  
-  .icon-wangyiyunyinle-:before {
-    content: "\e62c";
-  }
-  
-  .icon-xicheng:before {
-    content: "\e608";
-  }
-  
-  .icon-shejiaotubiao-46:before {
-    content: "\e64b";
-  }
-  
-  .icon-wangyiyunyinle:before {
-    content: "\e63c";
-  }
-  
-  .icon-csdn:before {
-    content: "\e638";
-  }
-  .icon-woodenfish:before {
-    content: "\e658";
-  }
-  
-  
+  content: "\e7b4";
+}
+
+.icon-wangyiyunyinle-:before {
+  content: "\e62c";
+}
+
+.icon-xicheng:before {
+  content: "\e608";
+}
+
+.icon-shejiaotubiao-46:before {
+  content: "\e64b";
+}
+
+.icon-wangyiyunyinle:before {
+  content: "\e63c";
+}
+
+.icon-csdn:before {
+  content: "\e638";
+}
+.icon-woodenfish:before {
+  content: "\e658";
+}
+
+.icon-xiaochengxu:before {
+  content: "\e636";
+}
+
+.icon-cms:before {
+  content: "\e624";
+}

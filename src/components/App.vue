@@ -67,6 +67,8 @@
             DemoZhihu: defineAsyncComponent(() => import('@/view/demo/zhihu')),
             DemoWoodenFish: defineAsyncComponent(() => import('@/view/demo/woodenfish')),
             DemoTravel: defineAsyncComponent(() => import('@/view/demo/travel')),
+            DemoCms: defineAsyncComponent(() => import('@/view/demo/cms')),
+            DemoApplet: defineAsyncComponent(() => import('@/view/demo/applet')),
             DemoWyy: defineAsyncComponent(() => import('@/view/demo/wyy')),
             DemoWeb: defineAsyncComponent(() => import('@/view/demo/web')),
         },

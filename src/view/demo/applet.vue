@@ -1,14 +1,11 @@
 <template>
     <div class="demo">
-        <div class="title">简书 - React实战
-            <li>使用 styled-components </li>
-            <li>使用 react-router-dom</li>
-            <li>使用 combineReducers</li>
-            blog地址：<a href="https://blog.csdn.net/daddykei/article/details/119191099">csdn</a>
-            git地址：<a href="https://gitee.com/thinkerwing/jianshu">jianshu gitee</a>
+        <div class="title">失物招领 - 小程序
+            <li>后端使用云函数和egg开发的一个失物招领小程序, 并且记录了一点学习的笔记.</li>
+            <!-- blog地址：<a href="">有时间的时候补吧</a> -->
+            git地址：<a href="https://gitee.com/thinkerwing/applet">gitee</a>
             <br/>
             <div style="margin-top: 10px;"></div>
-            掘金： 代码不停, 掘金不止<a href="https://gitee.com/thinkerwing/juejin">juejin gitee</a>
         </div>
     </div>
 </template>
