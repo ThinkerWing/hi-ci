@@ -1,3 +1,19 @@
+# 项目介绍
+[blog: 关于ci的笔记](https://blog.csdn.net/daddykei/article/details/128195288?spm=1001.2014.3001.5502)
+
+
+[blog: 关于这个项目的笔记](https://blog.csdn.net/daddykei/article/details/119946915)
+
+这个项目是clone于gitee的一个开源项目，想作为后续更新自己所做过的项目的展示。
+部署于个人站点xxlb.site（谢谢老板）, 通过github action 实现自动化部署。
+访问加载登录页面时候，账号密码随便输入就行了，并没有设置限制。
+
+![](https://img-blog.csdnimg.cn/722f6e33d04842ddb29c78a5e60f0c36.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAVGhpbmtlcldpbmc=,size_20,color_FFFFFF,t_70,g_se,x_16)
+
+# 启动命令
+```
+yarn start
+``` 
 # 参考gitee上项目进行更改
 
 <div class="title">我被设置了 hideInDesktop ， 

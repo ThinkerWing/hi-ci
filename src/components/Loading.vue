@@ -10,7 +10,7 @@
 
 
 <template>
-    <div class="loading" @click="fullScreen">
+    <div class="loading">
         <div class="logo"><i class="iconfont icon-apple-fill"></i></div>
         <div class="progress" :style="{width:showProgress?'300px':0}">
             <div :style="{width:progress+'%'}"></div>
@@ -74,7 +74,7 @@
             }, 1000)
         },
         methods: {
-            fullScreen() {
+            fullScreen() { // 全屏太烦了，先关了
                 var docElm = document.documentElement;
                 if (docElm.requestFullscreen) {
                     docElm.requestFullscreen();

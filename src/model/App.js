@@ -149,6 +149,18 @@ export default {
             "keepInDock": true,
         },
         {
+            "key": "demo_woodenfish",
+            "component": "DemoWoodenFish",
+            "icon": "icon-woodenfish",
+            "title": "木鱼",
+            "iconColor": "white",
+            "iconBgColor": "black",
+            "width": 370,
+            "height": 300,
+            "multiTask": true,
+            "keepInDock": true,
+        },
+        {
             "key": "demo_xiecheng",
             "component": "DemoTravel",
             "icon": "icon-xicheng",

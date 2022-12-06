@@ -65,6 +65,7 @@
             DemoCamera: defineAsyncComponent(() => import('@/view/demo/camera')),
             DemoMultiTask: defineAsyncComponent(() => import('@/view/demo/multitask')),
             DemoZhihu: defineAsyncComponent(() => import('@/view/demo/zhihu')),
+            DemoWoodenFish: defineAsyncComponent(() => import('@/view/demo/woodenfish')),
             DemoTravel: defineAsyncComponent(() => import('@/view/demo/travel')),
             DemoWyy: defineAsyncComponent(() => import('@/view/demo/wyy')),
             DemoWeb: defineAsyncComponent(() => import('@/view/demo/web')),
